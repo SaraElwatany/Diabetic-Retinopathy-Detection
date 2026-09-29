@@ -181,12 +181,7 @@ You can find the chatbot pipeline and Streamlit app in the **chatbot branch**.
 - 🔗 Fusion of detection + segmentation in a hybrid model
 
 ---
-## 7. **Let’s Collaborate**
-
-This project is open to collaboration from AI engineers, clinicians, and researchers. Feel free to contribute models, datasets, or domain expertise to improve and validate this tool further.
-
----
-## 8. **Collaborators**
+## 7. **Authors**
 
 * **Amany Alsayed**
   🔗 [LinkedIn](https://www.linkedin.com/in/amany-alsayed82) | 💻 [GitHub](https://github.com/Amany-alsayed) | ✉️ [Email](mailto:amanyalsayed82@gmail.com)
@@ -202,9 +197,9 @@ This project is open to collaboration from AI engineers, clinicians, and researc
 
 * **Zad Walid**
   🔗 [LinkedIn](https://www.linkedin.com/in/zadwalid) | 💻 [GitHub](https://github.com/Zad-Walid) | ✉️ [Email](mailto:zadwalid06@gmail.com)
+---
 
-
-## Copyright & Usage
+## 8. **Copyright & Usage**
 
 Copyright © 2026 Sara Elwatany, Shaza Osama, Zad Walid, and Aya Mohammed.
 All rights reserved.
