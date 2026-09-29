@@ -203,3 +203,18 @@ This project is open to collaboration from AI engineers, clinicians, and researc
 * **Zad Walid**
   🔗 [LinkedIn](https://www.linkedin.com/in/zadwalid) | 💻 [GitHub](https://github.com/Zad-Walid) | ✉️ [Email](mailto:zadwalid06@gmail.com)
 
+
+## Copyright & Usage
+
+Copyright © 2026 Sara Elwatany, Shaza Osama, Zad Walid, and Aya Mohammed.
+All rights reserved.
+
+This repository and its contents are the original work of the authors
+identified in this project.
+
+The source code, documentation, designs, and other original materials
+in this repository may not be copied, reproduced, modified, distributed,
+or republished, in whole or in substantial part, without prior written
+permission from the copyright holders.
+
+For permission to use or reproduce this work, please contact the authors.
